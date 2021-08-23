@@ -1,0 +1,16 @@
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\Bot.dll.config
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\Bot.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\Bot.pdb
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\EntityFramework.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\IrcDotNet.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\System.Data.SQLite.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\EntityFramework.xml
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\IrcDotNet.xml
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\bin\Debug\System.Data.SQLite.xml
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\obj\Debug\Bot.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\Bot\obj\Debug\Bot.pdb

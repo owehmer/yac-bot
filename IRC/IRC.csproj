@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3ADB494-13EC-4990-A836-1D05F4D14023}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IRC</RootNamespace>
+    <AssemblyName>IRC</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\ConsoleUtilities.cs" />
+    <Compile Include="Common\InvalidCommandParametersException.cs" />
+    <Compile Include="Common\IrcBotException.cs" />
+    <Compile Include="Common\IrcBotUtilities.cs" />
+    <Compile Include="Common\ProgramInfo.cs" />
+    <Compile Include="Common\Properties\AssemblyInfo.cs" />
+    <Compile Include="Common\Properties\Resources.Designer.cs" />
+    <Compile Include="IrcDotNet\CircularBufferStream.cs" />
+    <Compile Include="IrcDotNet\Collections\CollectionsUtilities.cs" />
+    <Compile Include="IrcDotNet\Collections\ReadOnlyDictionary.cs" />
+    <Compile Include="IrcDotNet\Collections\ReadOnlySet.cs" />
+    <Compile Include="IrcDotNet\CollectionUtilities.cs" />
+    <Compile Include="IrcDotNet\Ctcp\CtcpClient.cs" />
+    <Compile Include="IrcDotNet\Ctcp\CtcpClientMessageProcessing.cs" />
+    <Compile Include="IrcDotNet\Ctcp\CtcpClientMessageSending.cs" />
+    <Compile Include="IrcDotNet\Ctcp\CtcpEventArgs.cs" />
+    <Compile Include="IrcDotNet\DebugUtilities.cs" />
+    <Compile Include="IrcDotNet\IIrcFloodPreventer.cs" />
+    <Compile Include="IrcDotNet\IIrcMessageReceiveHandler.cs" />
+    <Compile Include="IrcDotNet\IIrcMessageReceiver.cs" />
+    <Compile Include="IrcDotNet\IIrcMessageSendHandler.cs" />
+    <Compile Include="IrcDotNet\IIrcMessageSource.cs" />
+    <Compile Include="IrcDotNet\IIrcMessageTarget.cs" />
+    <Compile Include="IrcDotNet\IrcChannel.cs" />
+    <Compile Include="IrcDotNet\IrcChannelCollection.cs" />
+    <Compile Include="IrcDotNet\IrcChannelInfo.cs" />
+    <Compile Include="IrcDotNet\IrcChannelUser.cs" />
+    <Compile Include="IrcDotNet\IrcChannelUserCollection.cs" />
+    <Compile Include="IrcDotNet\IrcClient.cs" />
+    <Compile Include="IrcDotNet\IrcClientMessageProcessing.cs" />
+    <Compile Include="IrcDotNet\IrcClientMessageSending.cs" />
+    <Compile Include="IrcDotNet\IrcEventArgs.cs" />
+    <Compile Include="IrcDotNet\IrcLocalUser.cs" />
+    <Compile Include="IrcDotNet\IrcNetworkInfo.cs" />
+    <Compile Include="IrcDotNet\IrcRegistrationInfo.cs" />
+    <Compile Include="IrcDotNet\IrcServer.cs" />
+    <Compile Include="IrcDotNet\IrcServerInfo.cs" />
+    <Compile Include="IrcDotNet\IrcServerStatisticalEntry.cs" />
+    <Compile Include="IrcDotNet\IrcStandardFloodPreventer.cs" />
+    <Compile Include="IrcDotNet\IrcTargetMask.cs" />
+    <Compile Include="IrcDotNet\IrcUser.cs" />
+    <Compile Include="IrcDotNet\IrcUserCollection.cs" />
+    <Compile Include="IrcDotNet\IrcUtilities.cs" />
+    <Compile Include="IrcDotNet\MessageProcessorAttribute.cs" />
+    <Compile Include="IrcDotNet\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="IrcDotNet\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="IrcDotNet\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="IrcDotNet\ReflectionUtilities.cs" />
+    <Compile Include="IrcDotNet\SafeLineReader.cs" />
+    <Compile Include="IrcDotNet\StandardIrcClient.cs" />
+    <Compile Include="IrcDotNet\TextUtilities.cs" />
+    <Compile Include="IrcDotNet\TwitchIrcClient.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Tester.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Common\Properties\Resources.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IrcDotNet\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Common\Common.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="IrcDotNet\bin\Debug\" />
+    <Folder Include="IrcDotNet\obj\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

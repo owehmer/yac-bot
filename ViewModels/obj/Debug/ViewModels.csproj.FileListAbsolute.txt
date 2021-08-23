@@ -1,0 +1,7 @@
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ViewModels\bin\Debug\ViewModels.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ViewModels\bin\Debug\ViewModels.pdb
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ViewModels\bin\Debug\Models.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ViewModels\bin\Debug\Models.pdb
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ViewModels\obj\Debug\ViewModels.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ViewModels\obj\Debug\ViewModels.pdb

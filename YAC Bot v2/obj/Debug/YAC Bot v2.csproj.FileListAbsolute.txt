@@ -1,0 +1,30 @@
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\bin\Debug\YAC Bot v2.exe.config
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\bin\Debug\YAC Bot v2.exe
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\bin\Debug\YAC Bot v2.pdb
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.csprojResolveAssemblyReference.cache
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\MainWindow.g.cs
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\App.g.cs
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2_MarkupCompile.cache
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2_MarkupCompile.lref
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\MainWindow.baml
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.g.resources
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC_Bot_v2.Properties.Resources.resources
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.csproj.GenerateResource.Cache
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.exe
+F:\Daten\User\OLW\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.pdb
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\bin\Debug\YAC Bot v2.exe.config
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.exe
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.pdb
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\bin\Debug\YAC Bot v2.exe
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\bin\Debug\YAC Bot v2.pdb
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.csprojResolveAssemblyReference.cache
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\MainWindow.g.cs
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\App.g.cs
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2_MarkupCompile.cache
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2_MarkupCompile.lref
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\MainWindow.baml
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.g.resources
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC_Bot_v2.Properties.Resources.resources
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\obj\Debug\YAC Bot v2.csproj.GenerateResource.Cache
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\bin\Debug\ConnectionModels.dll
+A:\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\YAC Bot v2\bin\Debug\ConnectionModels.pdb

@@ -1,0 +1,5 @@
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ConnectionModels\bin\Debug\Models.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ConnectionModels\bin\Debug\Models.pdb
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ConnectionModels\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ConnectionModels\obj\Debug\Models.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\ConnectionModels\obj\Debug\Models.pdb

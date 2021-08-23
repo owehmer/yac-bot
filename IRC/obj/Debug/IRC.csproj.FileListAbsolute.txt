@@ -1,0 +1,8 @@
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\IRC\bin\Debug\IRC.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\IRC\bin\Debug\IRC.pdb
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\IRC\obj\Debug\IRC.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\IRC\obj\Debug\IRC.dll
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\IRC\obj\Debug\IRC.pdb
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\IRC\obj\Debug\IRC.Properties.Resources.resources
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\IRC\obj\Debug\IRC.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\Projekte\YAC Bot v2\YAC Bot v2\IRC\obj\Debug\IRC.Common.Properties.Resources.resources
